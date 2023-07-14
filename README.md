@@ -1,5 +1,7 @@
 Welcome to your new dbt project!
 
+This is just off shoot of the original of the fivetran\jira. The source code in here is not developed by me but I might do some changes to certain code
+
 ### Using the starter project
 
 Try running the following commands:
